@@ -3,7 +3,7 @@
 - 使用框架https://github.com/openatx/uiautomator2
 
 ##使用说明
-- 在config.py中配置pkg_name和swipe_times
+- 在config.py中配置pkg_name、swipe_times、设备序列号udid
 - 运行runner.py
 - 运行结束查看screenshot目录中的截图，截图以时间戳命名
 
