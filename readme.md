@@ -1,11 +1,11 @@
-#功能说明
+##功能说明
 - 进入指定APP，在Feed流页面滑动截屏 指定次数
 - 使用框架https://github.com/openatx/uiautomator2
-#使用说明
+##使用说明
 - 在config.py中配置pkg_name和swipe_times
 - 运行runner.py
 - 运行结束查看screenshot目录中的截图，截图以时间戳命名
-#环境配置
+##环境配置
 - 安装uiautomator2
 ```angular2html
 pip install --upgrade --pre uiautomator2
