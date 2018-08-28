@@ -22,3 +22,10 @@ pip install --pre -U weditor
 ```
 - 更多信息请参考：https://github.com/openatx/uiautomator2#installation
 
+
+##额外说明
+- 目前滑动一屏是大约估算出来的, 可根据需要调整下面的参数（屏幕相对坐标）
+```angular2html
+self.swipe_by_percent(start_x_per=0.5, start_y_per=0.8, end_y_per=0.3, end_x_per=0.5, times=times, duration=duration)
+```
+
