@@ -5,7 +5,7 @@
 - 在config.py中配置pkg_name和swipe_times
 - 运行runner.py
 - 运行结束查看screenshot目录中的截图，截图以时间戳命名
-#环境配置,
+#环境配置
 - 安装uiautomator2
 ```angular2html
 pip install --upgrade --pre uiautomator2
